@@ -22,3 +22,4 @@
 
 ## 看板
 ![看板](https://raw.githubusercontent.com/SO4P/SSAD_HW2/master/%E7%9C%8B%E6%9D%BF.PNG)
+![看板2](https://raw.githubusercontent.com/SO4P/SSAD_HW2/master/%E7%9C%8B%E6%9D%BF2.PNG)
